@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @PiotrKruszynski
-- 👀 I’m interested in not know yet
-- 🌱 I’m currently learning Python basic
-- 💞️ I’m looking to collaborate not know yet
+ 👋 Hi, I’m @PiotrKruszynski
+ here is some stuff about me:
+ ---
+- 🔭 I’m currently working on My stable app
+- 🌱 I’m currently learning FastAPI, Pandas, Docker
+- 👯 I’m looking to collaborate on everything related to python
+- 🤔 I’m looking for help with finding internship
 - 📫 How to reach me pj.kruszynski@gmail.com
 
 <!---
