@@ -1,8 +1,10 @@
-# 👋 Hi, I’m @PiotrKruszynski
+👋 Hi there, 
 
-Here is some stuff about me:
+I’m Piotr and here is some stuff about me:
+
 ---
-- 🔭 I’m currently working on My stable app  
+
+- 🔭 I’m currently working on **todo_ai** in a functional paradigm with TDD  
 - 🌱 I’m currently learning FastAPI, Pandas, Docker  
 - 👯 I’m looking to collaborate on everything related to Python  
 - 🤔 I’m looking for help with finding internship  
@@ -10,44 +12,58 @@ Here is some stuff about me:
 
 ---
 
-## 🌐 Social
+<div align="center">
+  
+#### Social  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-kruszyński-9a85a1150)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white)](https://www.codewars.com/users/PiotrKruszynski)
-
----
-
-## ⚙️ Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+<a href="https://www.linkedin.com/in/piotr-kruszyński-9a85a1150">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+</a>
+<a href="https://www.codewars.com/users/PiotrKruszynski">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg" width="30" height="30"/>
+</a>
 
 ---
 
-## 🎨 Frontend
+#### Backend  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<a href="https://www.python.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
+</a>
+<a href="https://www.djangoproject.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" height="30"/>
+</a>
+<a href="https://fastapi.tiangolo.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" height="30"/>
+</a>
+<a href="https://www.sqlite.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30"/>
+</a>
 
 ---
 
-## 🛠 Other
+#### Frontend  
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
+</a>
 
 ---
 
-## 📊 GitHub Stats
+#### Other  
 
-![Piotr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiotrKruszynski&show_icons=true&theme=dark)  
+<a href="https://www.docker.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/>
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
+</a>
+
+<br><br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PiotrKruszynski&theme=dark)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrKruszynski&layout=compact&theme=dark)
-
----
+</div>
 
 <!---
 PiotrKruszynski/PiotrKruszynski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
