@@ -7,7 +7,8 @@ I’m Piotr and here is some stuff about me:
 - 🔭 I’m currently working on **todo_ai** in a functional paradigm with TDD  
 - 🌱 I’m currently learning FastAPI, Pandas, Docker  
 - 👯 I’m looking to collaborate on everything related to Python  
-- 🤔 I’m looking for help with finding internship  
+- 🤔 I’m looking for help with finding internship
+- My Codewars badge: [![Codewars](https://www.codewars.com/users/USERNAME/badges/large)](https://www.codewars.com/users/USERNAME)
 - 📫 How to reach me **pj.kruszynski@gmail.com**
 
 ---
