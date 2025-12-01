@@ -44,7 +44,7 @@ I’m Piotr and here is some stuff about me:
 
 <br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PiotrKruszynski&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PiotrKruszynski&theme=dark)
 
 </div>
 
