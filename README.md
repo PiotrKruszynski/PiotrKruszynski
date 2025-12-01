@@ -4,8 +4,8 @@ I’m Piotr and here is some stuff about me:
 
 ---
 
-- 🔭 I’m currently working on **todo_ai** in a functional paradigm with TDD  
-- 🌱 I’m currently learning FastAPI, Pandas, Docker  
+- 🔭 I’m currently working on **todo_ai** in a functional paradigm with TDD and Shifts Managements System for Hospital in Django  
+- 🌱 I’m currently learning FastAPI, Pandas, Docker, MongoDB  
 - 👯 I’m looking to collaborate on everything related to Python  
 - 🤔 I’m looking for help with finding internship
 - My Codewars badge: [![Codewars](https://www.codewars.com/users/PiotrKruszynski/badges/micro)](https://www.codewars.com/users/PiotrKruszynski)
@@ -34,6 +34,7 @@ I’m Piotr and here is some stuff about me:
 #### Frontend  
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>](https://reactjs.org/)
 
 
 
