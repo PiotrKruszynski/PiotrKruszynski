@@ -4,8 +4,8 @@ I’m Piotr and here is some stuff about me:
 
 ---
 
-- 🔭 I’m currently working on **todo_ai** in a functional paradigm with TDD and Shifts Managements System for Hospital in Django  
-- 🌱 I’m currently learning FastAPI, Pandas, Docker, MongoDB  
+- 🔭 I’m currently working on **[flashcards_ai_obsidian_pro](https://github.com/KruszONit/flashcards_ai_obsidian_pro)** — a typed, extensible Python loader for Obsidian Markdown notes with tag-based filtering.
+- 🌱 I’m currently learning FastAPI, Pandas, MongoDB  
 - 👯 I’m looking to collaborate on everything related to Python  
 - 🤔 I’m looking for help with finding internship
 - My Codewars badge: [![Codewars](https://www.codewars.com/users/PiotrKruszynski/badges/micro)](https://www.codewars.com/users/PiotrKruszynski)
