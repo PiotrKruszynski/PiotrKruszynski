@@ -17,8 +17,8 @@ I’m Piotr and here is some stuff about me:
   
 #### Social  
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>](https://www.linkedin.com/in/piotr-kruszyński-9a85a1150)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codewars.svg" width="30" height="30"/>](https://www.codewars.com/users/PiotrKruszynski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-kruszyński-9a85a1150)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/PiotrKruszynski)
 
 
 
