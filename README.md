@@ -4,12 +4,15 @@ I’m Piotr and here is some stuff about me:
 
 ---
 
-- 🔭 I’m currently working on **[flashcards_ai_obsidian_pro](https://github.com/KruszONit/flashcards_ai_obsidian_pro)** — a typed, extensible Python loader for Obsidian Markdown notes with tag-based filtering.
-- 🌱 I’m currently learning FastAPI, Pandas, MongoDB  
-- 👯 I’m looking to collaborate on everything related to Python  
-- 🤔 I’m looking for help with finding internship
-- My Codewars badge: [![Codewars](https://www.codewars.com/users/PiotrKruszynski/badges/micro)](https://www.codewars.com/users/PiotrKruszynski)
-- 📫 How to reach me **pj.kruszynski@gmail.com**
+* 🔭 Building **Shifts MVP** — a full-stack medical scheduling SaaS built with FastAPI, React, OpenAPI 3.1, JWT authentication, and 100% test coverage.
+* 🧠 Creator of **flashcards_ai_obsidian_pro** — an extensible Python library for processing Obsidian notes and generating AI-powered flashcards.
+* ⚡ Working with Python, FastAPI, Django, SQL, MongoDB, Docker, AWS, REST APIs, and modern developer tooling.
+* 🧪 Interested in software quality, architecture, and contract-first API design.
+* 🚀 AWS Certified Solutions Architect – Associate (SAA-C03).
+* 🎓 Big Data postgraduate student at Warsaw University of Technology and 42 Warsaw Piscine graduate.
+* 👯 Open to collaborating on Python, backend, developer tools, and open-source projects.
+* 📫 Reach me at: **[pj.kruszynski@gmail.com](mailto:pj.kruszynski@gmail.com)**
+
 
 ---
 
