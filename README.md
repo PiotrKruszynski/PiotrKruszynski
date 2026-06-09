@@ -1,56 +1,58 @@
-👋 Hi there, 
+### Hi there 👋
 
-I’m Piotr and here is some stuff about me:
+**Python Backend Developer**
+
+🚀 Building:
+
+**🚑 [Shifts MVP](https://github.com/PiotrKruszynski/shifts_mvp)** — full-stack medical scheduling SaaS
+FastAPI (Python 3.14) + React 18/TypeScript PWA. 82 REST endpoints, JWT auth, OpenAPI 3.1 contract validated with Redocly. 100% test coverage as a hard CI gate (pytest, tox, pytest-xdist), strict static analysis (ruff, ty), pre-commit hooks. Deployed on Vercel.
+
+**🧠 [flashcards_ai_obsidian_pro](https://github.com/KruszONit/flashcards_ai_obsidian_pro)** — AI-powered flashcard generator for Obsidian
+Plugin architecture built on ABCs for extensible AI-provider integration. Strict TDD with pytest, static analysis (mypy, Ruff), docs with Sphinx.
+
+**📚 [sorted_frozen_set](https://github.com/PiotrKruszynski/sorted_frozen_set)** — immutable sorted collection
+Built with strict TDD using `collections.abc` and Protocols.
+
+🎓 Big Data @ Warsaw University of Technology
+☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
+🧪 Backend engineering, testing, clean architecture, developer tooling
 
 ---
 
-* 🔭 Building **Shifts MVP** — a full-stack medical scheduling SaaS built with FastAPI, React, OpenAPI 3.1, JWT authentication, and 100% test coverage.
-* 🧠 Creator of **flashcards_ai_obsidian_pro** — an extensible Python library for processing Obsidian notes and generating AI-powered flashcards.
-* ⚡ Working with Python, FastAPI, Django, SQL, MongoDB, Docker, AWS, REST APIs, and modern developer tooling.
-* 🧪 Interested in software quality, architecture, and contract-first API design.
-* 🚀 AWS Certified Solutions Architect – Associate (SAA-C03).
-* 🎓 Big Data postgraduate student at Warsaw University of Technology and 42 Warsaw Piscine graduate.
-* 👯 Open to collaborating on Python, backend, developer tools, and open-source projects.
-* 📫 Reach me at: **[pj.kruszynski@gmail.com](mailto:pj.kruszynski@gmail.com)**
+#### 🔧 Tech Stack
 
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+**Quality**
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat&logo=python&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat&logo=ruff&logoColor=black)
 
 ---
 
-<div align="center">
-  
-#### Social  
+#### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-kruszyński-9a85a1150)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/PiotrKruszynski)
 
-
-
-#### Backend  
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>](https://www.python.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" height="30"/>](https://www.djangoproject.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30" height="30"/>](https://fastapi.tiangolo.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30"/>](https://www.sqlite.org/)
-
-
-
-#### Frontend  
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>](https://reactjs.org/)
-
-
-
-#### Other  
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/>](https://www.docker.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>](https://git-scm.com/)
-
-<br><br>
-
-</div>
-
 <!---
-PiotrKruszynski/PiotrKruszynski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+PiotrKruszynski/PiotrKruszynski is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
