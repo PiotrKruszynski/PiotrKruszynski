@@ -1,21 +1,25 @@
 ### Hi there 👋
 
-**Python Backend Developer**
+I'm AWS SAA-C03 certified Junior Python Developer with a production-grade FastAPI/React SaaS and 5+ years R&D leadership. Built using AI-assisted agentic workflows. Accepted to 42 Warsaw after Piscine in C. Pursuing postgraduate studies in Big Data at Warsaw University of Technology. Seeking a Python backend internship in Warsaw.
+
 
 🚀 Building:
 
-**🚑 [Shifts MVP](https://github.com/PiotrKruszynski/shifts_mvp)** — full-stack medical scheduling SaaS
-FastAPI (Python 3.14) + React 18/TypeScript PWA. 82 REST endpoints, JWT auth, OpenAPI 3.1 contract validated with Redocly. 100% test coverage as a hard CI gate (pytest, tox, pytest-xdist), strict static analysis (ruff, ty), pre-commit hooks. Deployed on Vercel.
+**🚑 [Shifts MVP](https://github.com/PiotrKruszynski/shifts_mvp)** — full-stack medical scheduling SaaS<br>
+FastAPI (Python 3.14) + React 18/TypeScript PWA · 82 REST endpoints · JWT auth · OpenAPI 3.1 validated with Redocly · 100% test coverage as a hard CI gate (pytest, tox, pytest-xdist) · strict static analysis (ruff, ty) · deployed on Vercel
 
-**🧠 [flashcards_ai_obsidian_pro](https://github.com/KruszONit/flashcards_ai_obsidian_pro)** — AI-powered flashcard generator for Obsidian
-Plugin architecture built on ABCs for extensible AI-provider integration. Strict TDD with pytest, static analysis (mypy, Ruff), docs with Sphinx.
+**🧠 [flashcards_ai_obsidian_pro](https://github.com/KruszONit/flashcards_ai_obsidian_pro)** — AI-powered flashcard generator for Obsidian<br>
+Plugin architecture built on ABCs for extensible AI-provider integration · strict TDD with pytest · static analysis (mypy, Ruff) · docs with Sphinx
 
-**📚 [sorted_frozen_set](https://github.com/PiotrKruszynski/sorted_frozen_set)** — immutable sorted collection
-Built with strict TDD using `collections.abc` and Protocols.
+**📚 [sorted_frozen_set](https://github.com/PiotrKruszynski/sorted_frozen_set)** — immutable sorted collection<br>
+Built with strict TDD using `collections.abc` and Protocols
 
-🎓 Big Data @ Warsaw University of Technology
-☁️ AWS Certified Solutions Architect – Associate (SAA-C03)
-🧪 Backend engineering, testing, clean architecture, developer tooling
+---
+
+🎓 **Big Data** @ Warsaw University of Technology
+
+☁️ **AWS Certified Solutions Architect – Associate** (SAA-C03)
+
 
 ---
 
@@ -23,28 +27,28 @@ Built with strict TDD using `collections.abc` and Protocols.
 
 **Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 
 **Cloud & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 
 **Quality**
 
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat&logo=python&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat&logo=ruff&logoColor=black)
+[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)](https://docs.pytest.org/)
+[![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat&logo=python&logoColor=white)](https://mypy-lang.org/)
+[![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat&logo=ruff&logoColor=black)](https://docs.astral.sh/ruff/)
 
 ---
 
